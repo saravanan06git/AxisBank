@@ -36,3 +36,37 @@
     transform: rotate(360deg);
   }
 }
+
+.headdiv{
+  background-color: #861f41;
+}
+.datep{
+  background-color: #ffffff;
+}
+.datahead{
+  color: #ffffff;
+}
+.datadiv{
+  background-color: #861f41;
+}
+.dasheddiv{
+  border: 1px dashed #861f41;
+  width: 15%;
+}
+.arrowdes{
+  border: dashed;
+  width: 65px;
+  border-color: #861f41;
+  border-width: 1px;
+}
+.arrowicn{
+  color: #861f41;
+}
+.apth{
+  color: #ffffff;
+  background-color: #861f41 !important;
+}
+td{
+  font-weight: bold;
+  text-transform: capitalize;
+}
