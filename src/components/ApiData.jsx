@@ -13,19 +13,19 @@ const ApiData = () => {
             </thead>
             <tbody>
                     <tr>
-                        <td>google</td>
-                        <td>100%</td>
-                        <td>saro</td>
+                        <td className='shadow rounded-5'>google</td>
+                        <td className='shadow rounded-5'>100%</td>
+                        <td className='shadow rounded-5'>saro</td>
                     </tr>
                     <tr>
-                        <td>cgs</td>
-                        <td>100%</td>
-                        <td>saro</td>
+                        <td className='shadow rounded-5'>cgs</td>
+                        <td className='shadow rounded-5'>100%</td>
+                        <td className='shadow rounded-5'>saro</td>
                     </tr>
                     <tr>
-                        <td>google</td>
-                        <td>100%</td>
-                        <td>saro</td>
+                        <td className='shadow rounded-5'>google</td>
+                        <td className='shadow rounded-5'>100%</td>
+                        <td className='shadow rounded-5'>saro</td>
                     </tr>
             </tbody>
         </table>

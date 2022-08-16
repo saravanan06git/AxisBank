@@ -55,7 +55,7 @@
 }
 .arrowdes{
   border: dashed;
-  width: 65px;
+  width: 50px;
   border-color: #861f41;
   border-width: 1px;
 }
@@ -69,4 +69,7 @@
 td{
   font-weight: bold;
   text-transform: capitalize;
+}
+.valhead{
+  color: #861f41;
 }
